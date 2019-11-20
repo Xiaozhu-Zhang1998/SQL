@@ -1,6 +1,6 @@
 # School Management System
 
-<img src="https://raw.githubusercontent.com/Xiaozhu-Zhang1998/School-Management-System/master/Cover_ER_Diagram.png"  width="600" height="350"> 
+<img src="https://raw.githubusercontent.com/Xiaozhu-Zhang1998/School-Management-System/master/Cover_ER_Diagram.png"  width="600" height="400"> 
 
 This is a class project for Relational Database Management, where we try to build a **School Management System**.
 ________________________________________________
